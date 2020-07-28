@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dynamic-ad-banner-a"
+    }
+  },
+  "defaultProject": "dynamic-ad-banner-a",
+  "cli": {
+    "analytics": "4d4f2e7c-5434-4a8b-a3fb-6be3fc832d99"
+  }
 }
